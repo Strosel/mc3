@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "0e833f471c0647b3cd402044ff2835e73386ed6231b2ac1512455610d192e432"
+hash = "d43e6bc3c5941941564b39cc05da3f7ffa1cbf4316a55cf82cb88495aee296bc"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "236ddd710a94bba3b18d210e460ca7a487710bdc397ff7df9bf3a86b03ab237c"
+hash = "70c62a4317e0516a40edf240c3208a9549080ee4101d14d4aa6c7b6fb785a400"
 metafile = true
 
 [[files]]
@@ -152,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "24d38ab780ec22edb2c1a80f4c2c06a5e9dd5f7c275a0fd6c2541793535d7978"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "8f3923f8cd83b8a347c613c06eadd1c39e2984d8cee5a9c1a59d6f09a3f59e6f"
 metafile = true
 
 [[files]]
@@ -257,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "94da1183e5cded15cfa4e6e9022538e47482ed3b0d8addedd437f789fd01a7ad"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "8bf5575541bae6403723da986788283d1e4b6eff37c1cf601f7ac07284841218"
 metafile = true
 
 [[files]]
