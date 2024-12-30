@@ -322,6 +322,11 @@ hash = "105de1beec48a5b6eeb2392a7046ec2605b01a03a7242acf9f3b229da13a485f"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "efa2e812d30842c16d7a7b4747df6c76285ce4d9bc20defa93d5eaad86f4d0a2"
+metafile = true
+
+[[files]]
 file = "mods/wasabiwhisper-harmonia.pw.toml"
 hash = "cf8c0d6c34264dea614fb0a31920b2b19b3b2b167231fa7f506a3827e25bb698"
 metafile = true
