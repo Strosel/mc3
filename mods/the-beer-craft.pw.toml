@@ -1,0 +1,13 @@
+name = "The Beer Craft"
+filename = "beer_craft-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hSowj7sJ/versions/xt62WCTA/beer_craft-1.20.1-1.1.jar"
+hash-format = "sha1"
+hash = "22590c0f8720c96dc969292ec3c0e72f676be903"
+
+[update]
+[update.modrinth]
+mod-id = "hSowj7sJ"
+version = "xt62WCTA"

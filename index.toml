@@ -1,0 +1,310 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "644dca8e49ded236cae446a4a2c3b9f8fe7dfecc578c885fb667f9082863e4a9"
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "99f6d4e46f784953d16aa1ce5f72327b21487dc0e27d3143c8a6b60c6d02381a"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "0e833f471c0647b3cd402044ff2835e73386ed6231b2ac1512455610d192e432"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "886dd3904a80422c030c1bd40aa30b4f62b25d73037c57626fab1696d4ccf7ad"
+metafile = true
+
+[[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "6214c1a6e6be41052b39fbff6fb8d5dbbad69254f9208c544ebd91ecf48930a7"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "3067c27dd670e506d7642f4bcd29e685cdcf48a55373137afaa3f9bb15d4b19c"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "1776e02ca3613682867cc87bd40347e517ece531217222b49af635c3c80da1ff"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "236ddd710a94bba3b18d210e460ca7a487710bdc397ff7df9bf3a86b03ab237c"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "a4f6bedfa0d9e0c6d898c4e4523cc8faf84874277efa01d055ef6abb437a8536"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "865aadc698921e1d57e610cd5b56ba3036796295241593fed8ef7af26887b640"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "c86994b8d348a7c872c328f774466202c99eec44d02a674b8b40230810fb5320"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-fork.pw.toml"
+hash = "2fcf1e22b1eb731d534c6574c7948102fa18088ce7251ef530bdfad2f75bc9c6"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "14ff0d55d64f80bc1630272a7979e1dfed7e9bfc77202c503e05445bbe905773"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "946467b566b9a6aefc65029b443bfcbf7cd72ac64bd2ea0c6fc47c6a36cae65b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "fff96b2cf07d07f0f76243aacbac94edd67c489544741faa8c46da9cb5cf06db"
+metafile = true
+
+[[files]]
+file = "mods/i-wanna-skate.pw.toml"
+hash = "a36d0eeb8e5ad976c9b2ffb3910c9df0ba8535e17f781e169f4173086e34cda0"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "2fca4156e28b42cc25f3e909c59cd101743f02b64a896de6da1f460d0092e855"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "09d3ffa456aa300a1e083dc201008a455836749a852349156ddbe1a070efd57f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "24d38ab780ec22edb2c1a80f4c2c06a5e9dd5f7c275a0fd6c2541793535d7978"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8f3923f8cd83b8a347c613c06eadd1c39e2984d8cee5a9c1a59d6f09a3f59e6f"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
+hash = "34ecad89ecbf3b9cb805d524f79484b65e518e6bdf4de6e108223a3fa5bf53bc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "eda00658aae72ce58c839caade7a081cb57c7194ffea8d8bc73a57303b2e94ef"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "68251e330e5dbe76afcd601f3a4aee11cb5215d10253d5f95b928f9686cd8847"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "494deaee9599d72411053c7a624a6edee9736965163734f8c04dc43d4211aad6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-biomes-o-plenty.pw.toml"
+hash = "d7e2365bb61746d33574b7e74296f61f846983b857a741b11382cd0a4c5efb39"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0a141cdae9c73e39dd61cabcc2bb3902bb2d558abe39b83dab46ee7c9a6ea110"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
+hash = "4cfb1f905c980ac0d29e806e8c70a832701e5af1ef81ca46e3220450cc1ba1e5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "26c88cf151590fdbd9d3f8db20498fe66fc784a00d9019870461c60bb6298583"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "44335ecd7b8c3f0a41d713d39af23994e954a144868b197982b1c591a3101694"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "3ef2a7221294f0040d161bef71a3695779bf58a860f03d3c5d5db415a9765db8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-biomes-o-plenty.pw.toml"
+hash = "5b65ab4f861ab0e7c45fc197c49dba79696cb598b8872675a82c40e43e95fb47"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "a264530c93a44f0760b41bd21f6698e25655a3d47c93eb34019a96aa3c80837b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "4c2c2f7bff8dda9050a583e11f1c33d97260fa6c1ed8d8717cda0f0306d32ea0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "cec979e2186b966069da4bc1fdbefff517f64450a340100833b9bc804155d2c0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "fe6ba0e62c6791d76b18fec6a44d35b1dc50ad0a7a4aad7e6134ad09306e29a1"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "55d157a38d829fb67129086a5498f0539bcbed2fa5e974a28abe4ab1cde2fcb5"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "94da1183e5cded15cfa4e6e9022538e47482ed3b0d8addedd437f789fd01a7ad"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "417e2e137ad9e5e92bd406636fed230dc7583f3b1f8d1652d190886baccfb440"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "15663ed4816572f02e955b7dc1cdaceb83f1119e1924f5c85cfde2c97242d818"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "dc11b978c01e8a9b3eb48145696f504199ff560e03b688bc11ebeab0af3f3f2c"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "326bff4bd6ad0f319a87397dacbb90ff312516c168f877dcdb4cdcc32f0ad696"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e72b2989e0113d6958cbf8268c6065b724488be569bda84063348866b60b0293"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8200d01d605c6bf25d31b05575818e38232780b49574e1ad052e19e3db0417cd"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
+metafile = true
+
+[[files]]
+file = "mods/the-beer-craft.pw.toml"
+hash = "105de1beec48a5b6eeb2392a7046ec2605b01a03a7242acf9f3b229da13a485f"
+metafile = true

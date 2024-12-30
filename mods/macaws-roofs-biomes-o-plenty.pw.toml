@@ -1,0 +1,13 @@
+name = "Macaw's Roofs - Biomes O' Plenty"
+filename = "macawsroofsbop-1.20-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5uSvd1Ca/versions/sRzAmAjJ/macawsroofsbop-1.20-1.1.jar"
+hash-format = "sha1"
+hash = "4fa966027a2a2182682502b2166b617ad71fd6ed"
+
+[update]
+[update.modrinth]
+mod-id = "5uSvd1Ca"
+version = "sRzAmAjJ"
