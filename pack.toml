@@ -1,12 +1,12 @@
 name = "Minecraft 3 - Convoluted naming sheme: Beach episode"
 author = "strosel"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c3e7cf419aa141e383df0d2de46666865530e2c9150b626cb0e4f0d1160c7020"
+hash = "a02d1423f00cd52b1841dee607ae17a17282811c2a9a3bbadd8c1f7eaad80a0b"
 
 [versions]
 forge = "47.3.22"

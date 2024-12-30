@@ -1,0 +1,13 @@
+name = "Harmonia"
+filename = "Harmonia-forge-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GdS8zuZT/versions/ePbrJ8o1/Harmonia-forge-1.2.0.jar"
+hash-format = "sha1"
+hash = "3ff115ed4f4a07a01c0afacb94d4b05b835d7848"
+
+[update]
+[update.modrinth]
+mod-id = "GdS8zuZT"
+version = "ePbrJ8o1"

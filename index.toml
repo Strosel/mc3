@@ -320,3 +320,18 @@ metafile = true
 file = "mods/the-beer-craft.pw.toml"
 hash = "105de1beec48a5b6eeb2392a7046ec2605b01a03a7242acf9f3b229da13a485f"
 metafile = true
+
+[[files]]
+file = "mods/wasabiwhisper-harmonia.pw.toml"
+hash = "cf8c0d6c34264dea614fb0a31920b2b19b3b2b167231fa7f506a3827e25bb698"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "32284ebaa9151f3a449db0dbaf2c89021519e6bc24b4810c3ce393f848b8e1da"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "34962f4137dce05c52b76fdaf49c50a13f35dcfc6ebaa830b4b4ae36568761b5"
+metafile = true
