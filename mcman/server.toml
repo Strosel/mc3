@@ -304,3 +304,28 @@ version = "zkb0vOdU"
 type = "modrinth"
 id = "nmoqTijg"
 version = "FolEFTVg"
+
+[[mods]]
+type = "curserinth"
+id = "556448"
+version = "5028450"
+
+[[mods]]
+type = "curserinth"
+id = "227875"
+version = "5470117"
+
+[[mods]]
+type = "curserinth"
+id = "549225"
+version = "5911986"
+
+[[mods]]
+type = "curserinth"
+id = "902986"
+version = "5733302"
+
+[[mods]]
+type = "modrinth"
+id = "nfn13YXA"
+version = "IoS2AjPk"

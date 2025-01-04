@@ -19,8 +19,18 @@
   in {
     packages.${system}.default = pkgs.mkMinecraftServer {
       name = "myminecraftserver";
-      src = ./.;
+      src = ./mcman;
       hash = "";
     };
+
+    devShells.${system}.default =
+      pkgs.mkShell
+      {
+        name = "mc3-shell";
+        buildInputs = with pkgs; [
+          packwiz
+          mcman
+        ];
+      };
   };
 }
