@@ -57,6 +57,11 @@ hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "3067c27dd670e506d7642f4bcd29e685cdcf48a55373137afaa3f9bb15d4b19c"
 metafile = true
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
